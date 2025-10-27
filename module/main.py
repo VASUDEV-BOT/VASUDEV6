@@ -231,5 +231,4 @@ def reset_and_set_commands():
 if __name__ == "__main__":
     reset_and_set_commands()
     notify_owner() 
-
-bot.run()
+    bot.run()
